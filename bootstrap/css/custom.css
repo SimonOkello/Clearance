@@ -1,0 +1,21 @@
+.customDiv{
+	
+    height: 150px;
+    width: 280px;
+    margin: 0 auto 6px;
+    padding: 8px 7px 0;
+    text-align: center;
+    background-color: lightblue;
+}
+body {
+    background: url('../images/afric.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   
+}
+
